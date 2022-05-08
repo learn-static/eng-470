@@ -147,7 +147,8 @@ Example value to add to a spreadsheet cell: Dogs; Cats; Zebras
 
 [For the data dictionary used in class, please review the required fields for CollectionBuilder-GH to see how the application wants values expressed in a required way.](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/)
 
-Okay, now lets apply this knowledge.
+### Okay, now lets apply this knowledg through an instructor "Show and Tell" 
+Watch your instructor demonstrate how to access Beyond Toxic Dataset (objects and metadata spreadsheet) and work through how to remediate and refine metadata records to conform to CollectionBuilder's requirements. After they are finished then you will need to complete the activity below.
 
 ## Metadata Remediation and Refinement Activity
 **Activity Goal:** The Beyond Toxic Dataset needs remediation and refinement so objects and their descriptions can be successfully added to CollectionBuilder. Your goal is to follow the class data dictionary and remediate and refine 3 metadata records (the rows in the Google Sheet) associated with a unique object found in the dataset. 
