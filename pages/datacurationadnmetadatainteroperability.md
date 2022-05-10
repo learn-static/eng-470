@@ -17,6 +17,15 @@ credits: true
 
 [This learning sequence's instructor lesson plan is found on a different page. Please use this resource to help facilitate teaching the learning sequence. It also contains instructions for next steps after the sequence is finished.](https://learn-static.github.io/eng-470/dcmilessonplan.html)
 
+**🖋️ Note for Learning Sequence Advisory Board Reviewer**
+You do not need to complete the "Let's reflect" activity. The only activity you need to complete is the "Metadata Remediation and Refinement Activity"..
+
+The Google Folder contains all the contents you need to complete the activity. The metadata sheet does not contain all the metadata using in the digital collection.
+
+Once you have completed the learning sequence, you should then act as if you are the instructor and upload objects and metadata into your own CollectionBuilder GitHub repository. This will show the NEH Learn-Static team if you were able to complete the metadata remediation and refinement activity.
+
+If you are unsure how to setup a CollectionBuilder repository or upload objects and metadata into it then visit the [CollectionBuilder documentation page](https://collectionbuilder.github.io/cb-docs/) for instructions.
+
 ## Overview
 This learning sequence will prepare you for working with the Beyond Toxic Dataset before using the dataset for your own research purposes. Before anyone is able to use the dataset, it must first be made publicly available online using CollectionBuilder, the platform used to host, search, and browse the dataset.
 
