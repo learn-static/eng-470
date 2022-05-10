@@ -14,6 +14,15 @@ credits: true
 
 # The Data Curation and Metadata Interoperability Lesson Plan
 
+# Note for Learning Sequence NEH Advisory Board Reviewer
+Please work through this lesson plan and the learning sequence. You do not need to complete the "Let's reflect" activity. The only activity you need to complete is the "Metadata Remediation and Refinement Activity". This activity is found toward the end of the learning sequence.
+
+The Google Folder contains all the contents you need to complete the activity. The metadata sheet does not contain all the metadata using in the digital collection.
+
+Once you have completed the learning sequence, you should then act as if you are the instructor and upload objects and metadata into your own CollectionBuilder GitHub repository. This will show the NEH Learn-Static team if you were able to complete the metadata remediation and refinement activity.
+
+If you are unsure how to setup a CollectionBuilder repository or upload objects and metadata into it then visit the [CollectionBuilder documentation page](https://collectionbuilder.github.io/cb-docs/) for instructions.
+
 ## Overview
 **About the lesson:** This lesson was designed as part of the Learn-Static initiative funded by the National Endowement for the Humanities. The lesson's intention is for educators be able to reuse and adapt within their own digital humanities classroom projects. It serves to support the digital project's greater goal of acting as an archival recovery project that seeks to conform Beyond Toxic's collected primary sources to a metadata standard and made publicly available online for research and education purposes.
 
@@ -127,12 +136,3 @@ Remember to do the following:
 - Briefly compare how the data is rendered on a webpage v.s. displayed in a spreadsheet. 
 
 If there is no time to do this in-person then record a video of you uploading objects and metadata to CollectionBuilder. Performing this demonstration allows learners to see if there have been any data entry errors and also how metadata and objects visually represented in a user interface vs a spreadsheet. Be sure to share your video with students.
-
-# Notes for Learning Sequence Advisory Board Reviewer
-Please work through this lesson plan and the learning sequence. You do not need to complete the "Let's reflect" activity. The only activity you need to complete is the "Metadata Remediation and Refinement Activity". This activity is found toward the end of the learning sequence.
-
-The Google Folder contains all the contents you need to complete the activity. The metadata sheet does not contain all the metadata using in the digital collection.
-
-Once you have completed the learning sequence, you should then act as if you are the instructor and upload objects and metadata into your own CollectionBuilder GitHub repository. This will show the NEH Learn-Static team if you were able to complete the metadata remediation and refinement activity.
-
-If you are unsure how to setup a CollectionBuilder repository or upload objects and metadata into it then visit the [CollectionBuilder documentation page](https://collectionbuilder.github.io/cb-docs/) for instructions.
