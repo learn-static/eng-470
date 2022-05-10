@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="bethel-school_1930" %}
 
-{% include feature/nav-menu.html sections="Overview;Instructor Lesson Plan;Notes for Learning Sequence Advisory Board Reviewer" %}
+{% include feature/nav-menu.html sections="Notes for Learning Sequence Advisory Board Reviewer;Overview;Instructor Lesson Plan" %}
 
 # The Data Curation and Metadata Interoperability Lesson Plan
 
