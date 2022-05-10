@@ -15,7 +15,7 @@ credits: true
 # Data Curation and Metadata Interoperability Learning Sequence
 **🖋️ Lesson Plan for Instructors**
 
-[This learning sequence's instructor lesson plan is found on a different page. Please use this resource to help facilitate teaching the learning sequence. It also contains instructions for next steps after the sequence is finished.](https://learn-static.github.io/eng-470/dcmilessonplan.html)
+[This learning sequence's instructor lesson plan is found on a different page. Please use this resource to help facilitate teaching the learning sequence. It also contains instructions for next steps after the sequence is finished.](https://learn-static.github.io/eng-470/dcmilessonplan.htmll)
 
 ## Overview
 This learning sequence will prepare you for working with the Beyond Toxic Dataset before using the dataset for your own research purposes. Before anyone is able to use the dataset, it must first be made publicly available online using CollectionBuilder, the platform used to host, search, and browse the dataset.
