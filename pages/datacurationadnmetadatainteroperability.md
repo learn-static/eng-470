@@ -20,7 +20,7 @@ credits: true
 **🖋️ Note for Learning Sequence Advisory Board Reviewer**
 You do not need to complete the "Let's reflect" activity. The only activity you need to complete is the "Metadata Remediation and Refinement Activity"..
 
-The Google Folder contains all the contents you need to complete the activity. The metadata sheet does not contain all the metadata using in the digital collection.
+The Google Folder referenced in the lesson plan and learning sequence contains all the contents you need to complete the activity. The metadata sheet does not contain all the metadata using in the digital collection.
 
 Once you have completed the learning sequence, you should then act as if you are the instructor and upload objects and metadata into your own CollectionBuilder GitHub repository. This will show the NEH Learn-Static team if you were able to complete the metadata remediation and refinement activity.
 
