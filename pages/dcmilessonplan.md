@@ -14,7 +14,7 @@ credits: true
 
 # The Data Curation and Metadata Interoperability Lesson Plan
 
-# Note for Learning Sequence NEH Advisory Board Reviewer
+## Note for Learning Sequence NEH Advisory Board Reviewer
 Please work through this lesson plan and the learning sequence. You do not need to complete the "Let's reflect" activity. The only activity you need to complete is the "Metadata Remediation and Refinement Activity". This activity is found toward the end of the learning sequence.
 
 The Google Folder contains all the contents you need to complete the activity. The metadata sheet does not contain all the metadata using in the digital collection.
