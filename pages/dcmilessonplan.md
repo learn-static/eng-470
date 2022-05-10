@@ -17,7 +17,9 @@ credits: true
 ## Overview
 **About the lesson:** This lesson was designed as part of the Learn-Static initiative funded by the National Endowement for the Humanities. The lesson's intention is for educators be able to reuse and adapt within their own digital humanities classroom projects. It serves to support the digital project's greater goal of acting as an archival recovery project that seeks to conform Beyond Toxic's collected primary sources to a metadata standard and made publicly available online for research and education purposes.
 
-Within the ENG 470 Technologies and Text Capstone class context, this lesson represents the first of multiple instruction sessions that introduces learners to describing and analyzing primary sources and making them publicly available online through CollectionBuilder. \
+Within the ENG 470 Technologies and Text Capstone class context, this lesson represents the first of multiple instruction sessions that introduces learners to describing and analyzing primary sources and making them publicly available online through CollectionBuilder.
+
+**Where can I find the learning sequence?** The learning sequence for this lesson plan can be found at [Data Curation and Metadata Interoperability Learning Sequence](https://learn-static.github.io/eng-470/datacurationadninteroperability.html)
 
 **Who designed the lesson plan and learning sequence?** Kate Thornhill, University of Oregon Libraries Digital Scholarship Librarian, in consultation with Mattie Burket, Assistant Professor of Digital Humanities.
 
