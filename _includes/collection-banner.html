@@ -22,9 +22,8 @@
             {% if site.tagline %}<p class="mb-0">{{ site.tagline }}</p>{% endif %}
         </div>
     </div>
-    {% unless site.data.theme.featured-image contains '/' %}<div class="text-right p-0 mt-0">
-        <small><a class="text-info featured-link p-2" href="{{ site.data.theme.featured-image | prepend: '/item.html?id=' | relative_url }}" title="{{ featuredItem.title | escape }}">Featured Image</a></small>
-    </div>{% endunless %}
+    {% unless site.data.theme.featured-image contains '/' %}
+    {% endunless %}
 </div>
 {%- else -%}
 <div class="container">

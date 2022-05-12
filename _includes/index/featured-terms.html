@@ -3,7 +3,7 @@
     Featured Terms button-links.
     This include creates a card with btn links to the Browse page from a set of automatically generated or manually selected terms. Either use the "field" option to auto generate *or* the "featured" option to manually create list of terms.
 
-    E.G. --> {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="outline-info" max=8 %}
+    E.G. --> {% include index/featured-terms.html field="subject" title="Top Topics" btn-color="outline-info" max=8 %}
 
     E.G. --> {% include index/featured-terms.html featured="Example term; Another; One more" title="Topic Areas" btn-color="success" %}
 
@@ -26,7 +26,7 @@
     Use termsField and termsMax to customize feature 
 {% endcomment %}
 {% assign termsField = include.field | default: "subject" %}
-{% assign termsMax = include.max | default: 5 %}
+{% assign termsMax = include.max | default: 10 %}
 
 {% comment %} 
     Liquid below cleans and counts unique terms 
@@ -41,10 +41,16 @@
 {% for i in termsCount limit: termsMax %}{{ i | split: "||" | last }};{% endfor %}{% endcapture %}
 {% assign topTerms = topTerms | split: ";" %}
 {%- endif -%}
+
 <div class="card mb-3">
-    {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
+    {% if include.header %}
+    <h2 class="card-header">{{ include.header }}</h2>
+    {% endif %}
     <div class="card-body">
-        {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{% endif %}
+        {% if include.title %}
+        <h3 class="card-title">{{ include.title }}
+        </h3>
+    {% endif %}
         <p class="card-text">
             {% for s in topTerms %}
             <a class="btn btn-sm btn-{{ include.btn-color | default: 'info' }} m-1" href="{{ s | strip | url_param_escape | prepend: '/browse.html#' | relative_url }}">{{ s | strip }}</a>{% endfor %}
