@@ -1,5 +1,4 @@
 field,display_name,browse_link,external_link
-filename,Filename,
 title,Title,
 creator,Creator,
 date,Date Created,
@@ -18,3 +17,4 @@ rightsnote,Rights Note,
 publisher,Publisher
 source,Source
 identifier,Identifier,,
+filename,Filename,

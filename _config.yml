@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Beyond Toxic Research Repository
+title: Beyond Toxics Research Repository
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A digital collection created in partnership by the University of Oregon's ENG 470 Technology & Texts Capstone Course & Beyond Toxic, a nonprofit environmental justice organization based in Eugene, Oregon.
+tagline: A digital collection created in partnership by the University of Oregon's ENG 470 Technology & Texts Capstone Course, UO Libraries DREAM Lab, & Beyond Toxics, a nonprofit environmental justice organization based in Eugene, Oregon.
 # description appears in meta tags and other locations"
 # this description might appear in search result lists, keep around 160 characters max
-description: "ADD PROJECT DESCRIPTION HERE."
+description: "This digital collection is designed to serve as a research repository related to the history of environmental racism in the Eugene-Springfield community."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: mattieburket, kmthorn
+author: mattieburket; kmthorn
 
 ##########
 # COLLECTION SETTINGS
@@ -40,10 +40,8 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "UO Libraries Digital Research, Education, and Media (DREAM) Lab"
+# organization-link: https://dreamlab.uoregon.edu
 
 
 
@@ -61,7 +59,7 @@ metadata: demo-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+# noindex: false
 
 ##########
 # BUILD SETTINGS 

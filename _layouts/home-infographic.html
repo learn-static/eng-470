@@ -3,26 +3,52 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] -%}
 <div class="row">
-  <div class="col-md-8">
-
-    {% include index/description.html %}
-    {% include index/carousel.html title="Featured Items" height="300" %}
-  
+  <div class="col-md-12" markdown="1">
+    <h2>Beyond Toxic Research Repository</h2>
+    <p>This digital collection is designed to serve as a research repository related to the history of environmental racism in the Eugene-Springfield community. </p>
   </div>
-  <div class="col-md-4">  
+</div>
 
-    {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="info" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
-
-    {% include index/objects.html %}
-
+<div class="row p-5">
+  <div class="col-md-6" markdown="1">
+    {% include feature/image.html objectid="register-guard_blazed-trails_2000" width="85" %}
   </div>
-  <div class="col-md-12">
 
+  <div class="col-md-6" markdown="1">
+    <h2>What is the purpose of this digital collection?</h2>
+    <p>The digital project was created in partnership with the nonprofit organization <a href="https://www.beyondtoxics.org/">Beyond Toxics</a>, students and faculty at the University of Oregon are working to collect and catalog materials related to the formal and informal segregation of housing, education, and outdoor recreation opportunities in our city.</p>
+
+    <p>We aim to better understand the ways predominantly white institutions have systematically shifted environmental hazards onto communities of color and how these communities have organized and advocated around issues of environmental justice.</p>
+  </div>
+
+  <div class="row p-5">
+    <div class="col-md-4" markdown="1">
+      {% include feature/image.html objectid="japanese-american-restricted-zones-west-coast_1943" width="85" %}
+    </div>
+
+    <div class="col-md-8" markdown="1">
+      <h2>Where did the primary sources come from?</h2>
+
+      <p>The collection brings together reports, policy documents, maps, newspaper clippings, newsletters, museum exhibit catalogs, curricular materials, academic research, and demographic data that together shed light on our local history and its relationship to events and trends at the state, regional, and national level. These materials come from city, state, and federal government websites; UO Libraries digital collections; the Lane County History Museum Archives; and publicly available sources. They are gathered here for educational and not-for-profit research purposes in accordance with fair use doctrine. Materials were collected and selected by Lisa Arkin, Executive Director of the Beyond Toxics.
+      </p>
+      {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="info" %}
+    </div>
+  </div>
+
+<div class="row p-5">
+  <div class="col-md-12" markdown="1">
+  <h2>Harmful Content Statement</h2>
+
+    <p>This digital collection includes digitized archival materials that document traumatic histories and violent ideologies.</p>
+
+    <p>Some of these materials use offensive language, express biased or hateful views, and perpetuate harmful stereotypes, particularly with respect to race, color, national origin, ethnicity, and socioeconomic class. In addition, some of the descriptive metadata used to catalog these materials is inherited from predominantly white institutions where communities of color have historically had less access and privilege, and therefore less control over their own representation.</p>
+    
+     <p>The Eugene-Springfield community and the University of Oregon continue to reflect and to be structured by these histories, and our project team is not immune to bias or prejudice. We are actively working to remediate, re-process, and re-contextualize these objects as source material for anti-racist digital storytelling projects that might eventually play a small role in repairing some of these harms. </p>
+  </div>
+</div>
+
+<div class="row p-5">
+  <div class="col-md-12" markdown="1">
     {% include index/data-download.html %}
-
   </div>
 </div>

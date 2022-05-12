@@ -1,7 +1,13 @@
 {%- assign stubs = site.data.config-nav | map: 'stub' | join: ';' -%}
 <div class="card mb-3">
     <div class="card-body">
-        <h5 class="card-title">Collection as Data <small>(click to download)</small></h5>
+        <h5 class="card-title">Use this Digital Collection as Research Data</h5> 
+        <p class="card-text">
+            <a href="https://github.com/learn-static/eng-470/tree/main/objects">Download all the objects from this collection.</a>
+        </p>
+        <p>
+            <small>Click any of the buttons to download the metadata</small>
+        </p>
         <p class="card-text text-center">
             <a class="btn btn-sm btn-secondary m-2" href="{{ '/assets/data/metadata.csv' | relative_url }}" target="_blank">Metadata CSV</a>
             <a class="btn btn-sm btn-secondary m-2" href="{{ '/assets/data/metadata.json' | relative_url }}" target="_blank">Metadata JSON</a>
