@@ -1,4 +1,5 @@
 field,display_name,browse_link,external_link
+filename,Filename,
 title,Title,
 creator,Creator,
 date,Date Created,
@@ -7,9 +8,13 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
-identifier,Source Identifier,,
 type,Type,
 format,Format,
+language,Language,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+rightsholder,Rights Holder,
+rightsnote,Rights Note,
+publisher,Publisher
+source,Source
+identifier,Identifier,,
