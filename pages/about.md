@@ -11,3 +11,15 @@ credits: true
 {% include feature/jumbotron.html objectid="bethel-school_1930" %}
 
 {% include feature/nav-menu.html sections="About the Project;About the Dataset;Acknowledgements;Contributors;Additional Support;Harmful Content Statement" %}
+
+# About the Project
+
+# About the Dataset
+
+# Acknowledgements
+
+# Contributors
+
+# Additional Support
+
+# Harmfull Content Statement
