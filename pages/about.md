@@ -26,7 +26,7 @@ The collection brings together reports, policy documents, maps, newspaper clippi
 
 ## Additional Support
 
-## Harmfull Content Statement
+## Harmful Content Statement
 This digital collection includes digitized archival materials that document traumatic histories and violent ideologies.
 
 Some of these materials use offensive language, express biased or hateful views, and perpetuate harmful stereotypes, particularly with respect to race, color, national origin, ethnicity, and socioeconomic class. In addition, some of the descriptive metadata used to catalog these materials is inherited from predominantly white institutions where communities of color have historically had less access and privilege, and therefore less control over their own representation.
