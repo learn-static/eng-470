@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Beyond Toxics Research Repository
+title: Environmental Justice in the Eugene-Springfield Community: A Research Repository
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A digital collection created in partnership by the University of Oregon's ENG 470 Technology & Texts Capstone Course, UO Libraries DREAM Lab, & Beyond Toxics, a nonprofit environmental justice organization based in Eugene, Oregon.
+tagline: A digital collection created by students and faculty in the University of Oregon's ENG 470 Technologies & Texts Capstone course in partnership with the UO Libraries DREAM Lab and in consultation with Beyond Toxics, a nonprofit organization working for environmental justice in Oregon.
 # description appears in meta tags and other locations"
 # this description might appear in search result lists, keep around 160 characters max
-description: "This digital collection is designed to serve as a research repository related to the history of environmental racism in the Eugene-Springfield community."
+description: "This digital collection serves as a research repository related to the history of environmental racism and activism in the Eugene-Springfield community."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: mattieburket; kmthorn
+author: mattieburkert; kmthorn
 
 ##########
 # COLLECTION SETTINGS
