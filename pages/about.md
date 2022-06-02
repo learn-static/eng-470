@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="bethel-school_1930" %}
 
-{% include feature/nav-menu.html sections="About the Project;About the Dataset;Acknowledgements;Contributors;Additional Support;Harmful Content Statement" %}
+{% include feature/nav-menu.html sections="About the Project;About the Dataset;Intellectual Property Rights;Sponsors;Community Partners;Contributors;Additional Support;Land Acknowledgment;Harmful Content Statement" %}
 
 ## About the Project
 This digital collection serves as a repository of research materials related to the history of environmental racism in the Eugene-Springfield community. In consultation with the nonprofit organization Beyond Toxics, students and faculty at the University of Oregon are working to collect and catalog primary sources related to the formal and informal segregation of housing, education, and outdoor recreation opportunities in our city. 
