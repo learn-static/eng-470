@@ -1,5 +1,5 @@
 # Environmental Justice Research Repository. 
-## Developed and used as research source data for the Spring 2022 University of Oregon ENG 470 Technologies and Text Capstone Course
+Developed and used as research source data for the Spring 2022 University of Oregon ENG 470 Technologies and Text Capstone Course
 
 
 # About the Project
